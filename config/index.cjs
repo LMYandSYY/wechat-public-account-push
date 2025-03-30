@@ -25,7 +25,6 @@ const USER_CONFIG = {
       useTemplateId: 'EpesGgD-RYECarPcxP6yFld-ZBdqSfW9WqvxPagF5fM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-04',
-      ],
     },
   ],
 
